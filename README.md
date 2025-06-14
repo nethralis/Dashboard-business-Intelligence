@@ -19,7 +19,7 @@ A comprehensive financial monitoring system featuring an ETL pipeline and intera
   - Fraud analysis
 - **Dynamic Filtering**: By date, type, and status
 - **KPI Monitoring**: Real-time metrics
-- **Dark/Light Mode**: User preference support
+- **Dark Mode**: It looks cooler.
 
 ## Technologies
 
