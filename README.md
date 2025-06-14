@@ -4,7 +4,7 @@
 
 A comprehensive financial monitoring system featuring an ETL pipeline and interactive dashboard for transaction analysis.
 
-## ✨ Features
+## Features
 
 ### Data Pipeline
 - **Automated ETL**: Daily extraction from multiple sources
@@ -21,7 +21,7 @@ A comprehensive financial monitoring system featuring an ETL pipeline and intera
 - **KPI Monitoring**: Real-time metrics
 - **Dark/Light Mode**: User preference support
 
-## 🛠️ Technologies
+## Technologies
 
 ### Backend
 | Component       | Technology |
@@ -39,7 +39,7 @@ A comprehensive financial monitoring system featuring an ETL pipeline and intera
 | Styling        | Tailwind CSS |
 | Fonts          | Inter |
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
